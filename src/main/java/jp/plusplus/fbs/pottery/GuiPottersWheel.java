@@ -1,0 +1,38 @@
+package jp.plusplus.fbs.pottery;
+
+import jp.plusplus.fbs.FBS;
+import net.minecraft.client.gui.inventory.GuiContainer;
+import net.minecraft.client.resources.I18n;
+import net.minecraft.inventory.Container;
+import net.minecraft.util.ResourceLocation;
+import org.lwjgl.opengl.GL11;
+
+/**
+ * Createdby pluslus_Fon 2015/08/29.
+ */
+public class GuiPottersWheel extends GuiContainer {
+    private TileEntityPottersWheel entity;
+
+    public GuiPottersWheel(Container p_i1072_1_, TileEntityPottersWheel t) {
+        super(p_i1072_1_);
+        entity =t;
+        ySize=202;
+    }
+
+    @Override
+    protected void drawGuiContainerForegroundLayer(int par1, int par2){
+        String s=entity.getInventoryName();
+        this.fontRendererObj.drawString(s, this.xSize / 2 - this.fontRendererObj.getStringWidth(s) / 2, 6, 0x404040);
+        this.fontRendererObj.drawString(I18n.format("container.inventory"), 8, this.ySize - 96 + 2, 0x404040);
+    }
+    @Override
+    protected void drawGuiContainerBackgroundLayer(float v, int i, int i1) {
+        GL11.glColor4f(1.0F, 1.0F, 1.0F, 1.0F);
+
+        this.mc.getTextureManager().bindTexture(new ResourceLocation(FBS.MODID, "textures/gui/pottersWheel.png"));
+
+        int k = (this.width - this.xSize) / 2;
+        int l = (this.height - this.ySize) / 2;
+        this.drawTexturedModalRect(k, l, 0, 0, this.xSize, this.ySize);
+    }
+}

@@ -1,0 +1,1083 @@
+﻿# en_US
+
+############################################################
+#
+# block
+#
+############################################################
+
+tile.fbs.oreRuby.name=Ruby Ore
+tile.fbs.oreSapphire.name=Sapphire Ore
+tile.fbs.oreAmethyst.name=Amethyst Ore
+tile.fbs.blockRuby.name=Ruby Block
+tile.fbs.blockSapphire.name=Sapphire Block
+tile.fbs.blockAmethyst.name=Amethyst Block
+
+tile.fbs.lavender.name=Lavender
+tile.fbs.redLily.name=Cluster Amaryllis
+tile.fbs.herb.name=Herb Plant
+tile.fbs.herbBase.name=Base Herb Plant
+tile.fbs.herbBlood.name=Blood Herb Plant
+tile.fbs.herbMana.name=Mana Herb Plant
+tile.fbs.herbStamina.name=Stamina Herb Plant
+tile.fbs.herbSoul.name=Soul Herb Plant
+tile.fbs.herbMandrake.name=Mandrake Plant
+tile.fbs.herbGold.name=Gold Herb Plant
+tile.fbs.herbEnder.name=Ender Herb Plant
+tile.fbs.herbExplosive.name=Explosive Herb Plant
+tile.fbs.herbUnclean.name=Unclean Herb Plant
+tile.fbs.mushroom0.name=Mysterious Mushroom Plant
+tile.fbs.mushroom1.name=Enigmatic Mushroom Plant
+tile.fbs.mushroom2.name=Blasphemous Mushroom Plant
+tile.fbs.grass.name=Bush
+
+tile.fbs.fallenLeaves.name=Fallen Leaves
+tile.fbs.wood.name=Unclean Oak Wood
+tile.fbs.plank.name=Unclean Oak Plank
+tile.fbs.bookshelf.name=Magician's Bookshelf
+tile.fbs.charm.name=Charm
+tile.fbs.magicCore.name=Magical Circle Core
+tile.fbs.butterfly.name=Invitation To The Autumn
+
+tile.fbs.extractingFurnace.name=Extracting Furnace
+tile.fbs.fillingTable.name=Filling Up Table
+tile.fbs.furnace.name=Magician's Furnace
+tile.fbs.workbench.name=Magician's Crafting Table
+tile.fbs.enchantExtractor.name=Enchantment Extractor
+tile.fbs.enchanter.name=Additional Enchanter
+tile.fbs.dockSpirit.name=Spirit Dock
+tile.fbs.kiln.name=Kiln
+tile.fbs.pottersWheel.name=Potter's Wheel
+tile.fbs.bonfire.name=Bonfire
+
+tile.fbs.mirror.name=Witch's Mirror
+gui.fbs.shop.name=Witch's Shop
+
+tile.fbs.barrier.name=Magical Barrier
+tile.fbs.barrierHoly.name=Thorn Barrier
+tile.fbs.portalWarp.name=Dimension Crack
+
+tile.fbs.pot.name=Pot
+
+tile.fbs.schoolTable.name=Student's Table
+
+fluid.fbs.mana=Extracted Mana
+
+tile.fbs.mealCrystal.name=Meal
+tile.fbs.mealInlet.name=Assimilator
+tile.fbs.mealOutletSingle.name=Revealer
+tile.fbs.mealOutlet.name=Revealer
+tile.fbs.mealTerminal.name=Interlocutor
+
+############################################################
+#
+# item
+#
+############################################################
+
+item.fbs.gemRuby.name=Ruby
+item.fbs.gemSapphire.name=Sapphire
+item.fbs.gemAmethyst.name=Amethyst
+item.fbs.gemInfinity.name=Infinity Crystal
+
+item.fbs.seedLavender.name=Lavender Seeds
+item.fbs.lavender.name=Lavender
+item.fbs.seedSage.name=Sage Seeds
+item.fbs.sage.name=Sage
+item.fbs.seedRedLily.name=Cluster Amaryllis Seeds
+item.fbs.redLily.name=Cluster Amaryllis
+item.fbs.redLilyDirty.name=Unclean Cluster Amaryllis
+
+item.fbs.membership.name=Witch's Membership
+item.fbs.bookmark.name=Magical Bookmark
+item.fbs.instantMana.name=INSTANT MANA
+item.fbs.signEnder.name=Ender Sign
+item.fbs.enchantScroll.name=Enchanted Scroll
+item.fbs.mpCoin.name=MP Coin
+
+item.fbs.butterfly.name=Butterfly
+item.fbs.stick.name=Magical Stick
+
+item.fbs.potOblivion.name=Potion of Oblivion
+item.fbs.potInt.name=Potion of Cleverness
+item.fbs.potSan.name=Potion of Sanity
+item.fbs.cookieFortune.name=Fortune Cookie
+
+item.fbs.monocleWood.name=Wooden Monocle
+item.fbs.monocle.name=Iron Monocle
+item.fbs.monocleGold.name=Golden Monocle
+
+item.fbs.cloak.name=Cloak
+item.fbs.shovel.name=Shovel
+item.fbs.foldingFan.name=Large Fan
+item.fbs.tablewareSpoon.name=Spoon
+item.fbs.tablewareKnife.name=Knife
+item.fbs.tablewareFork.name=Fork
+item.fbs.infinityHelm.name=Infinity Helmet
+item.fbs.infinityArmor.name=Infinity Chest Plate
+item.fbs.infinityLegs.name=Infinity Leggings
+item.fbs.infinityBoots.name=Infinity Boots
+item.fbs.luckyDagger.name=Lucky Dagger
+
+item.fbs.ring.name=Ring
+item.fbs.magicCore.name=Magical Circle Core
+item.fbs.net.name=Net
+
+item.fbs.staffHead1.name=Staff Head Unu
+item.fbs.staffHead2.name=Staff Head Du
+item.fbs.staffHead3.name=Staff Head Tri
+item.fbs.staffHead4.name=Staff Head Kvar
+item.fbs.staffHead5.name=Staff Head Kvin
+
+item.fbs.staff1_1.name=Staff Unu
+item.fbs.staff1_2.name=Staff Du
+item.fbs.staff1_3.name=Staff Tri
+item.fbs.staff1_4.name=Staff Kvar
+item.fbs.staff1_5.name=Staff Kvin
+item.fbs.staff2_1.name=Resonance Staff Unu
+item.fbs.staff2_2.name=Resonance Staff Du
+item.fbs.staff2_3.name=Resonance Staff Tri
+item.fbs.staff2_4.name=Resonance Staff Kvar
+item.fbs.staff2_5.name=Resonance Staff Kvin
+item.fbs.staff3_1.name=Trinity Staff Unu
+item.fbs.staff3_2.name=Trinity Staff Du
+item.fbs.staff3_3.name=Trinity Staff Tri
+item.fbs.staff3_4.name=Trinity Staff Kvar
+item.fbs.staff3_5.name=Trinity Staff Kvin
+
+item.fbs.bucketMana.name=Extracted Mana
+
+item.fbs.bookNDec.name=No-Decoded Book
+item.fbs.bookDec.name=Decoded Book
+item.fbs.bookOld.name=Old Book
+item.fbs.bookBroken.name=Broken Book
+item.fbs.bookWhite.name=White Book
+
+item.fbs.clayWet.name=Wet Clay
+item.fbs.clayGlow.name=Glowing Clay
+
+item.fbs.charm.black.name=Black Charm
+item.fbs.charm.red.name=Red Charm
+item.fbs.charm.green.name=Green Charm
+item.fbs.charm.brown.name=Brown Charm
+item.fbs.charm.blue.name=Blue Charm
+item.fbs.charm.purple.name=Purple Charm
+item.fbs.charm.cyan.name=Cyan Charm
+item.fbs.charm.silver.name=Silver Charm
+item.fbs.charm.gray.name=Gray Charm
+item.fbs.charm.pink.name=Pink Charm
+item.fbs.charm.lime.name=Lime Charm
+item.fbs.charm.yellow.name=Yellow Charm
+item.fbs.charm.lightBlue.name=LightBlue Charm
+item.fbs.charm.magenta.name=Magenta Charm
+item.fbs.charm.orange.name=Orange Charm
+item.fbs.charm.white.name=White Charm
+
+item.fbs.spirit.name=%s's %s
+
+item.fbs.fishZombie.name=Zombie Fish
+item.fbs.fishMaguro.name=Tuna
+item.fbs.fishZeni.name=Fish
+
+item.fbs.stoneInactive.name=Inactive Spirit Stone
+item.fbs.stoneActivated.name=Activated Spirit Stone
+item.fbs.stoneActivatedMale.name=Activated Male Spirit Stone
+item.fbs.stoneActivatedFemale.name=Activated Female Spirit Stone
+item.fbs.spirit.name=%owner%'s %spirit%
+
+item.fbs.mealFragment.name=Meal Fragments
+
+enchantment.fbs.sanity=Sanity Protect
+enchantment.fbs.cleverness=Cleverness
+enchantment.fbs.wealth=Wealth
+
+############################################################
+#
+# pottery
+#
+############################################################
+
+pottery.fbs.molded=Molded
+pottery.fbs.dry=Dry
+
+pottery.fbs.soulful=Soulful
+pottery.fbs.great=Great
+pottery.fbs.good=Good
+pottery.fbs.bad=Bad
+
+pottery.fbs.plain=Plain
+pottery.fbs.linear=Linear
+pottery.fbs.mesh=Mesh
+pottery.fbs.flower=Flower
+
+pottery.fbs.large=Large
+pottery.fbs.medium=
+pottery.fbs.small=Small
+
+pottery.fbs.pot=Pot
+pottery.fbs.jar=Jar
+
+pottery.fbs.pot.keep=Pot of Inventory
+pottery.fbs.pot.senaka=Pot of Back-Massage
+pottery.fbs.pot.monster=Melting Pot of Monsters
+pottery.fbs.pot.change=Pot of Conversion
+pottery.fbs.pot.void=Bottomless Pot
+pottery.fbs.pot.taboo=Pot of Taboo
+pottery.fbs.pot.lottery=Pot of Lottery
+pottery.fbs.pot.dontBroken=Unbreakable Pot
+pottery.fbs.pot.furnace=Pot of Burning
+pottery.fbs.pot.appraisal=Pot of Appraisal
+pottery.fbs.pot.enchant=Pot of Enchantment
+
+pottery.fbs.pot.timeAcc=Pot of Future
+pottery.fbs.pot.timeTrace=Pot of Past
+
+############################################################
+#
+# info
+#
+############################################################
+
+info.fbs.san.0=You gained %d SAN.
+info.fbs.san.1=You lost %d SAN.
+info.fbs.san.2=You were mad.
+info.fbs.san.3=You suddenly were mad.
+info.fbs.lv.0=You gained a magic level.
+
+info.fbs.book.decoder=Decoder
+info.fbs.book.lv=Suitable Magic Level
+info.fbs.book.difficult=Difficulty
+info.fbs.book.high=High
+info.fbs.book.middle=Middle
+info.fbs.book.low=Low
+info.fbs.book.decoded=Decoded
+
+info.fbs.book.success=You succeeded decoding %s
+info.fbs.book.failure=You failed decoding %s
+
+info.fbs.book.trouble.dry=You suddenly got thirsty.
+info.fbs.book.trouble.hunger=You suddenly got hunger.
+info.fbs.book.trouble.tiredness=You suddenly got tiredness.
+info.fbs.book.trouble.damage=You got terrible pain.
+info.fbs.book.trouble.jump=You were flown somewhere!
+info.fbs.book.trouble.summon=Monsters appeared!
+
+info.fbs.magic.failure=You failed to use %s.
+info.fbs.magic.charm=Charm protected you to madness!
+info.fbs.magic.resona.success=Spellbooks have resonance!
+info.fbs.magic.resona.failure=Spellbooks are repelled!
+info.fbs.magic.circle.need=You must make magical circle.
+
+info.fbs.dimTrouble.0=You eyes met and The Hounds of Tindalos!
+
+info.fbs.enchant.extSuccess=You succeeded extracting %s
+info.fbs.enchant.extFailure=You failed extracting %s
+
+info.fbs.food.shearing=%s sheared %s for you!
+
+info.fbs.sanity.add=Gain SAN:%dd%d
+info.fbs.sanity.lose=Lose SAN:%dd%d
+
+info.fbs.monocle.0=It enables to access to mana
+info.fbs.monocle.1=It protects your sanity
+info.fbs.cloak.0=It protects your sanity from magical autumn
+info.fbs.ring.0=It protects your sanity from madness
+info.fbs.infinity.0=It repairs own by using magic
+
+info.fbs.potObl.0=It reduces 5 magic level
+info.fbs.staff.0=It handles %d spellbooks
+info.fbs.staff.1=It handles %d charms
+info.fbs.magicCore.0=It composes magical circle with charm
+
+info.fbs.extractingFurnace.0=It extracts mana from decoded books
+info.fbs.fillingTable.0=It consumes mana
+info.fbs.fillingTable.1=It fills up mana to spellbook
+info.fbs.fillingTable.2=Maybe it fails to fill
+info.fbs.furnace.0=It consumes mana
+info.fbs.furnace.1=It makes
+info.fbs.workbench.0=It consumes mana
+info.fbs.enchantExtractor.0=It consumes mana
+info.fbs.enchantExtractor.1=It extracts enchantment from item
+info.fbs.enchanter.0=It consumes mana and lapis
+info.fbs.enchanter.1=It adds enchantment to item
+info.fbs.mirror.0=It allows you to access Witch's shop
+info.fbs.net.0=It can be use to catch butterfly
+info.fbs.bookWhite.0=It will become no-decoded book if you use
+info.fbs.pottersWheel.0=It makes pottery from clay
+info.fbs.kiln.0=It bakes pottery
+
+info.fbs.bookmark.0=It finds sealed library
+info.fbs.bookmark.found=You felt that slightly vibration of bookmark.
+info.fbs.bookmark.success=You felt that strong vibration of bookmark.
+info.fbs.bookmark.failure=You couldn't feel something from bookmark.
+info.fbs.bookmark.shining=You saw bookmark had shining.
+
+info.fbs.shovel.0="Good night."
+info.fbs.foldingFan.0="Repose in peace!"
+
+info.fbs.valuable=It is valuable goods
+
+nei.recipe.fbs.shaped=Insanity Shaped Recipe
+nei.recipe.fbs.shapeless=Insanity Shapeless Recipe
+nei.recipe.fbs.extracting=Insanity Extracting Furnace
+nei.recipe.fbs.pottery=Insanity Potter's Wheel
+nei.recipe.fbs.appraisal=Insanity Appraisal
+
+info.fbs.mealCrystal.0=It integrates items
+info.fbs.mealInlet.0=It inserts a item to the meal
+info.fbs.mealOutlet.0=It exports a item from the meal
+info.fbs.mealTerminal.0=It can be used to browse the meal
+
+potions.fbs.contract=Contract
+potions.fbs.cleverness=Cleverness
+potions.fbs.judgement=Judgement
+potions.fbs.hailstorm=Hailstorm
+potions.fbs.magnetism=Magnetism
+
+info.pottery.crash=%s has broken
+
+info.fbs.wish.0=What is your wish?
+
+info.fbs.lottery.item=15
+info.fbs.lottery.item.0=今日のラッキーアイテムは Record-13 ですよ！これで快眠間違い無しです！
+info.fbs.lottery.item.1=今日のラッキーアイテムは Record-cat ですよ！今日はゆったりと音楽を聴きましょう！
+info.fbs.lottery.item.2=今日のラッキーアイテムは ダイヤのクワ ですよ！あたり一面耕しましょう！
+info.fbs.lottery.item.3=今日のラッキーアイテムは 金のモノクル ですよ！今日は読書日和です！
+info.fbs.lottery.item.4=今日のラッキーアイテムは リンゴ ですよ！健康的ですね！
+info.fbs.lottery.item.5=今日のラッキーアイテムは すごいハンマー ですよ！おっと、これは違うmodのですね。失礼しました！
+info.fbs.lottery.item.6=今日のラッキーアイテムは わたし ですよ！清衣ちゃん！
+info.fbs.lottery.item.7=今日のラッキーアイテムは TNT ですよ！気に入らないあいつを爆破してしまいましょう！
+info.fbs.lottery.item.8=今日のラッキーアイテムは 虫取り網 ですよ！胡蝶採集に励みましょう！
+info.fbs.lottery.item.9=今日のラッキーアイテムは 錬金術師のカゴ ですよ！錬金術の勉強が捗る一日になるでしょう！
+info.fbs.lottery.item.10=今日のラッキーアイテムは フォーチュンクッキー ですよ！あれ？もう食べ終わっちゃいました？
+info.fbs.lottery.item.11=今日のラッキーアイテムは 羽 ですよ！今日なら空高く飛べることでしょう！
+info.fbs.lottery.item.12=今日のラッキーアイテムは 鉄の剣 ですよ！体が軽くなった気持ちで戦えることでしょう！
+info.fbs.lottery.item.13=今日のラッキーアイテムは 菌糸 ですよ！何気にレアアイテムですね！
+info.fbs.lottery.item.14=今日のラッキーアイテムは 牛乳 ですよ！飲んで健康を維持しましょう！
+
+info.fbs.lottery.message=20
+info.fbs.lottery.message.0=このメッセージを君が読む時、私はこの世にはいないだろう・・・
+info.fbs.lottery.message.1=git commit -m 'Added Fortune Cookie'
+info.fbs.lottery.message.2=おみくじだと思った！？残念！ただのメッセージでした！
+info.fbs.lottery.message.3=あなたの後ろにクリーパーが！
+info.fbs.lottery.message.4=あなたの家にクリーパーが！
+info.fbs.lottery.message.5=あなたのトラップ・タワーにエンダーマンが！
+info.fbs.lottery.message.6=フォーチュンクッキーのメッセージって何を書けばいいのかな
+info.fbs.lottery.message.7=魔導書を封印したのもHerobrineって奴の仕業なんだ！
+info.fbs.lottery.message.8=こんなもののためにまた紙を無駄遣いしたね！？
+info.fbs.lottery.message.9=!!!!!!??!?!??!?
+info.fbs.lottery.message.10=お利口さんはこんなもの食べないでち
+info.fbs.lottery.message.11=村がゾンビで壊滅する呪いをかけてあげよう
+info.fbs.lottery.message.12=フォーチュンクッキーが喉につまった！
+info.fbs.lottery.message.13=SAN値！ピンチ！
+info.fbs.lottery.message.14=おめでとうございます！現金100,000,000MPが当選しました！
+info.fbs.lottery.message.15=あなたにメールが届いています！
+info.fbs.lottery.message.16=どうせみんないなくなる
+info.fbs.lottery.message.17=あら？私何を書こうとしたんだっけ
+info.fbs.lottery.message.18=いくらフォーチュンクッキーが楽しいからって食べすぎは良くないな
+info.fbs.lottery.message.19=§oあなたはそこにいますか？
+
+info.fbs.lottery.trivia=10
+info.fbs.lottery.trivia.0=チャームには術者の精神を護る効果が秘められているらしい
+info.fbs.lottery.trivia.1=魔法の矢と任意の付与魔法を組み合わせると魔導書の共鳴が起こるらしい
+info.fbs.lottery.trivia.2=対応する魔法陣があると効果が増大する魔法があるらしい
+info.fbs.lottery.trivia.3=魔女は会員証を持ち歩いているらしい
+info.fbs.lottery.trivia.4=魔法の栞は地下の魔術師の木材に反応しているらしい
+info.fbs.lottery.trivia.5=フォーチュンクッキーを毎日食べ続けると大きな幸運が訪れるらしい
+info.fbs.lottery.trivia.6=魔力の秋に迷い込んだ者は胡蝶になるらしい
+info.fbs.lottery.trivia.7=精霊の宿る武器は力尽きても落とさないらしい
+info.fbs.lottery.trivia.8=フォーチュンクッキーを毎日食べ続けると大きな不幸が訪れるらしい
+info.fbs.lottery.trivia.9=無限に秋の続く世界があるらしい
+
+############################################################
+#
+# book
+#
+############################################################
+
+book.fbs.voini.title=Voynich Manuscript
+book.fbs.necro.title=Necronomicon
+book.fbs.sera.title=Celaeno Fragments
+book.fbs.rlyeh.title=R'lyeh Text
+book.fbs.ponape.title=Ponape Scripture
+book.fbs.hastur.title=The King in Yellow
+book.fbs.unauss.title=Nameless Cults
+book.fbs.eibon.title=Book of Eibon
+book.fbs.cassandra.title=Cassandra Prediction
+
+book.fbs.hero.title=Herobrine Diary
+book.fbs.dragon.title=Legend of Ender Dragon
+book.fbs.ender.title=Ender Romance
+book.fbs.nether.title=Underground Voyage
+book.fbs.zombiePig.title=Pigs in Underground
+book.fbs.blaze.title=The Blaze
+book.fbs.creeper.title=Ecology of Creeper
+book.fbs.villager.title=The Secret of Big-Nose Thing
+
+# magic
+magic.resonance.fbs=Resonance
+
+magic.type.fbs.type=Type
+magic.type.fbs.touch=Touch
+magic.type.fbs.projectile=Injection
+magic.type.fbs.self=Self
+magic.type.fbs.utility=Utility
+magic.type.fbs.enchant=Enchantment
+
+magic.suffix.fbs.touch= Hand
+magic.suffix.fbs.arrow= Arrow
+magic.suffix.fbs.canon= Canon
+magic.suffix.fbs.laser= Laser
+magic.suffix.fbs.vortex= Vortex
+
+magic.prefix.fbs.magic= Magic
+magic.prefix.fbs.fireBolt=Burning
+magic.prefix.fbs.ice=Freezing
+magic.prefix.fbs.dig=Digger's
+magic.prefix.fbs.heal=Healing
+magic.prefix.fbs.recovery=Recovery
+magic.prefix.fbs.timeAcc=Old
+magic.prefix.fbs.timeTrace=Youth
+magic.prefix.fbs.damageBoost=Hero's
+magic.prefix.fbs.speed=Lulwy's
+magic.prefix.fbs.cleverness=Wiseman's
+magic.prefix.fbs.king=King's
+magic.prefix.fbs.blind=Blind
+magic.prefix.fbs.regeneration=Regene
+magic.prefix.fbs.wedge=Wedge
+magic.prefix.fbs.jump=Flipping
+magic.prefix.fbs.fireArmor=Fire-Resistance
+magic.prefix.fbs.poison=Poisonous
+magic.prefix.fbs.contract=Contract
+magic.prefix.fbs.butterfly=Butterfly
+
+
+# combat
+book.fbs.touch.title=Magic Punch
+book.fbs.arrow.title=Magic Arrow
+book.fbs.fireBolt.title=Fire Bolt
+book.fbs.wedge.title=Magic Wedge
+book.fbs.iceSpear.title=Ice Spear
+book.fbs.canon.title=Magic Canon
+book.fbs.blackDesire.title=Black Desire
+book.fbs.vortex.title=Magic Vortex
+book.fbs.hailstorm=Hailstorm
+book.fbs.magnetism=Amplify Magnetism
+
+# util
+book.fbs.digTouch.title=Digger's Hand
+book.fbs.healingTouch.title=Healing Hand
+book.fbs.healingBall.title=Healing Ball
+book.fbs.healingRain.title=Healing Rain
+book.fbs.timeAcc.title=Time Acceleration
+book.fbs.timeTrace.title=Time Tracing
+book.fbs.warp.title=Voyage of Spatiotemporal
+book.fbs.return.title=Return
+book.fbs.barrier.title=Magic Barrier
+book.fbs.harvest.title=Harvest
+book.fbs.strange.title=Strange Spellbook
+book.fbs.pocket.title=Pocket of 4-dimension
+book.fbs.summonVillager.title=Contracting Big-Nose Thing
+book.fbs.contract.title=Contract with Spirit
+book.fbs.copy.title=Replicate
+book.fbs.butterfly.title=Turnover to Butterfly
+book.fbs.propagation.title=Propagation
+book.fbs.jump.title=Jump
+book.fbs.wish.title=Spellbook of Wish
+
+# enchant
+book.fbs.digSpeed.title=Song of Diggers
+book.fbs.speed.title=Lulwy Possesion
+book.fbs.regeneration.title=Super Regeneration
+book.fbs.damageBoost.title=Heros Advent
+book.fbs.cleverness.title=Protection of Wiseman
+book.fbs.evKing.title=Evolution King
+book.fbs.judgement.title=Spellbook of Judgment
+book.fbs.contemporary.title=The Mysterious Contempora
+book.fbs.fireArmor.title=Invitation to Nether
+book.fbs.dagon.title=Dagon's Shout
+book.fbs.invisible.title=Invisiblize
+book.fbs.poison.title=Poisonous Hand
+book.fbs.contractEffect.title=Contract
+
+# resona
+book.fbs.failure.title=Dissonance
+book.fbs.dig.title=Dig Bolt
+book.fbs.wedgeFire.title=Wedge of Fire
+book.fbs.cureZombie.title=Cure
+book.fbs.healingSelf.title=Recover
+book.fbs.hurricane.title=Love Hurricane
+
+#flavor
+
+############################################################
+#
+# alchemy
+#
+############################################################
+alchemy.effect.fbs.small=Samll
+alchemy.effect.fbs.medium=Medium
+alchemy.effect.fbs.large=Large
+
+alchemy.effect.fbs.short=Short
+alchemy.effect.fbs.long=Long
+
+alchemy.effect.fbs.light=Light
+alchemy.effect.fbs.heavy=Heavy
+
+alchemy.effect.fbs.look.good=Good
+alchemy.effect.fbs.look.beautiful=Beautiful
+alchemy.effect.fbs.look.dirty=Dirty
+alchemy.effect.fbs.look.strange=Strange
+
+alchemy.effect.fbs.good=Good
+alchemy.effect.fbs.great=Great
+alchemy.effect.fbs.bad=Bad
+
+alchemy.fbs.characteristic=Chara
+alchemy.fbs.material=Material
+alchemy.fbs.usage=Usage
+
+
+alchemy.chara.fbs.life.gain=Healing
+alchemy.chara.fbs.life.lose=Damage
+alchemy.chara.fbs.food.gain=Fullness
+alchemy.chara.fbs.food.lose=Hunger
+alchemy.chara.fbs.exp.gain=Gain EXP
+alchemy.chara.fbs.exp.lose=Lose EXP
+alchemy.chara.fbs.sanity.gain=Stabilize Sanity
+alchemy.chara.fbs.sanity.lose=Lose Sanity
+alchemy.chara.fbs.magicExp.gain=Magic Experience
+alchemy.chara.fbs.magicExp.lose=Lose Knowledge
+alchemy.chara.fbs.stamina.gain=Stamina
+alchemy.chara.fbs.stamina.lose=Tiredness
+alchemy.chara.fbs.water.gain=Moisture
+alchemy.chara.fbs.water.lose=Thirst
+alchemy.chara.fbs.oxygen.gain=Oxygen
+
+alchemy.chara.fbs.power.gain=Power Up
+alchemy.chara.fbs.power.lose=Power Down
+alchemy.chara.fbs.speed.gain=Speed Up
+alchemy.chara.fbs.speed.lose=Speed Down
+alchemy.chara.fbs.cleverness.gain=Cleverness
+alchemy.chara.fbs.cleverness.lose=Idiot
+alchemy.chara.fbs.poison.gain=Poison
+alchemy.chara.fbs.poison.lose=Antidote
+alchemy.chara.fbs.confusion.gain=Confusion
+alchemy.chara.fbs.confusion.lose=Tranquillity
+
+alchemy.chara.fbs.weight=Weight
+alchemy.chara.fbs.look=Look
+alchemy.chara.fbs.quality=Quality
+
+tile.fbs.alchemyCauldron.name=Alchemy Cauldron
+tile.fbs.translator.name=Alchemy Table
+
+item.fbs.basket.name=Alchemist's Basket
+item.fbs.recipe.name=Alchemy Recipe Book
+item.fbs.study-aid.name=Alchemy Study-Aid
+
+info.fbs.alchemyCauldron.0=It can be used to alchemy
+info.fbs.translator.0=It can be used to assess item
+info.fbs.basket.0=It keeps alchemy items
+
+
+# -------------------------------------------------------------
+item.fbs.alchemy.potion.name=Handmade Potion
+item.fbs.alchemy.ointment.name=Handmade Ointment
+item.fbs.alchemy.potionSpirit.name=Spirit Repairing Potion
+
+item.fbs.alchemy.bombWood.name=Rustic Bomb
+item.fbs.alchemy.bombWood.name=Powerful Bomb
+
+# -------------------------------------------------------------
+
+item.fbs.in.herb.name=Unknown Herb
+item.fbs.in.seeds.name=Unknown Seeds
+item.fbs.in.fruits.name=Unknown Fruits
+item.fbs.in.flower.name=Unknown Flower
+item.fbs.in.grass.name=Unknown Grass
+item.fbs.in.mushroom.name=Unknown Mushroom
+item.fbs.material.tearSpirit.name=Spirit Tear
+
+# -------------------------------------------------------------
+item.fbs.material.water.name=Water
+item.fbs.material.waterUnclean.name=Unclean Water
+item.fbs.material.lava.name=Lava
+item.fbs.material.leafTree.name=Leaf of Tree
+item.fbs.material.branchTree.name=Unclean Leaf of Tree
+item.fbs.material.rootsTree.name=Roots of Tree
+item.fbs.material.leafUnclean.name=Unclean Roots of Tree
+item.fbs.material.branchUnclean.name=Branch of Tree
+item.fbs.material.rootsUnclean.name=Unclean Branch of Tree
+
+# ---------------------herb-----------------
+item.fbs.material.herbBase.name=Base Herb
+item.fbs.material.herbBlood.name=Bloody Herb
+item.fbs.material.herbMana.name=Mana Herb
+item.fbs.material.herbStamina.name=Stamina Herb
+item.fbs.material.herbSoul.name=Soul Herb
+item.fbs.material.herbMandrake.name=Mandrake
+item.fbs.material.fruitsMandrake.name=Fruits of Mandrake
+item.fbs.material.herbGold.name=Gold Herb
+item.fbs.material.herbEnder.name=Ender Herb
+item.fbs.material.herbExplosive.name=Explosive Herb
+item.fbs.material.herbUnclean.name=Unclean Herb
+
+# ---------------------grass-----------------------
+item.fbs.material.grassAntidote.name=Grass of Antidote
+item.fbs.material.grassVine.name=Vine
+item.fbs.material.grassRakuyo.name=Grass of Rakuyo
+item.fbs.material.rootsRakuyo.name=Roots of Rakuyo
+item.fbs.material.grassOtogiri.name=Hypericum
+item.fbs.material.grassEnmei.name=Grass of Longevity
+item.fbs.material.grassTsukimi.name=Grass of Moonlight
+item.fbs.material.grassGunpowder.name=Grass of Gunpowder
+item.fbs.material.grassNightShade.name=Night Shade
+
+# ---------------------flower-----------------------
+item.fbs.material.flowerRyusen.name=Draconic Flower
+item.fbs.material.flowerFox.name=Ranunculus Glaber
+item.fbs.material.flowerTsukimi.name=Evening Primrose
+
+# ---------------------seeds-----------------------
+item.fbs.material.seedsRyusen.name=Draconic Seeds
+item.fbs.material.seedsPower.name=Seeds of Power
+item.fbs.material.seedsDefence.name=Seeds of Protection
+
+# ---------------------fruits-----------------------
+item.fbs.material.fruitsWalnut.name=Bursting Walnut
+item.fbs.material.fruitsApple.name=Apple
+item.fbs.material.fruitsCacao.name=Cacao
+item.fbs.material.fruitsStamina.name=Stamina Fruit
+item.fbs.material.fruitsItete.name=Itete Fruit
+item.fbs.material.fruitsSassa.name=Sassa Fruit
+
+# ---------------------mushroom-----------------------
+item.fbs.material.mushroomBlue.name=Blue Mushroom
+item.fbs.material.mushroomQli.name=Small Mushroom
+item.fbs.material.mushroomNigaQli.name=Poisonous Small Mushroom
+item.fbs.material.mushroomPoisonous.name=Poisonous Mushroom
+item.fbs.material.mushroomTiredness.name=Mushroom of Tiredness
+item.fbs.material.mushroomParalysis.name=Mushroom of Paralysis
+
+item.fbs.material.mushroomNitrogen.name=Explosive Mushroom
+item.fbs.material.mushroomTsukiyo.name=Omphalotus Japonicus
+item.fbs.material.mushroomWarai.name=Amusing Mushroom
+
+item.fbs.material.mushroomMatsu.name=Matsutake
+item.fbs.material.mushroomChaos.name=Mushroom of Chaos
+item.fbs.material.mushroomSuperParalysis.name=Deadly Paralyzer
+item.fbs.material.mushroomReishi.name=Ganoderma Lucidum
+item.fbs.material.mushroomGold.name=Golden Mushroom
+
+
+# ---------------------mobs-----------------------
+item.fbs.material.heartHorse.name=Heart of Horse
+item.fbs.material.gallstoneCow.name=Cow Gallstone
+
+item.fbs.material.rottenFresh.name=Piece of Corrupt Meat
+item.fbs.material.eyeSpider.name=Eye of Spider
+item.fbs.material.heartCreeper.name=Heart of Creeper
+
+item.fbs.material.featherHarpie.name=Harpie Feather
+item.fbs.material.eggHarpie.name=Harpie Egg
+
+item.fbs.material.scaleLamia.name=Lamia Scale
+item.fbs.material.eggLamia.name=Lamia Egg
+
+item.fbs.material.eyeGhast.name=Eye of Ghast
+item.fbs.material.heartGhast.name=Heart of Ghast
+
+# ---------------------intermediate-----------------------
+item.fbs.intermediate.neutralizer.name=Neutralizer
+item.fbs.intermediate.gunpowder.name=Gunpowder
+item.fbs.intermediate.herbPowder.name=Herb Powder
+item.fbs.intermediate.herbDense.name=Herb Dense
+item.fbs.intermediate.potionActivate.name=Activate Potion
+item.fbs.intermediate.bladeSpice.name=Blade Spice
+item.fbs.intermediate.plantPowder.name=Plant Powder
+item.fbs.intermediate.mushroomPowder.name=Mushroom Powder
+
+
+############################################################
+#
+# entity
+#
+############################################################
+
+entity.jp-plusplus-fbs.jp-plusplus-fbs-butterfly.name=Butterfly
+entity.jp-plusplus-fbs.jp-plusplus-fbs-tableware.name=Tableware
+entity.jp-plusplus-fbs.jp-plusplus-fbs-author.name=Spell Book Author
+
+entity.jp-plusplus-fbs.knife.name=Knife
+entity.jp-plusplus-fbs.spoon.name=Spoon
+entity.jp-plusplus-fbs.fork.name=Fork
+
+entity.fbs.knife.name=Knife
+entity.fbs.spoon.name=Spoon
+entity.fbs.fork.name=Fork
+
+death.attack.fbs.madness.0=%s became mad and tore up own throat.
+death.attack.fbs.madness.1=%s became mad and throttled own throat.
+death.attack.fbs.madness.2=%s became mad and stabbed own chest with a sword.
+death.attack.fbs.evil.0=%s were torn up by madness.
+
+death.attack.fbs.butterfly=%s became the butterfly
+
+############################################################
+#
+# wish
+#
+############################################################
+
+wish.fbs.goddess=Voice from Above
+
+info.fbs.wish.0=What is your wish?
+info.fbs.wish.1=You shouted %s！
+
+wish.fbs.panty.regex=^((ギャル|シーナ)の)?(パンティ|パンツ|panty)(をくれ|くれ)?ー*(!|！)*$
+wish.fbs.panty.get=ごめんなさいね～まだ未実装なの。このスケベさん
+wish.fbs.herobrine.regex=^(summon\s)?herobrine(召喚)?$
+wish.fbs.herobrine.get=herobrineなら既にいるじゃない。ほら、あなたの後ろ
+wish.fbs.wish.regex=^(願い|wish|desire|pray)$
+wish.fbs.wish.get=あら！欲張りな人！
+wish.fbs.goddess.regex=^(あなた|貴方|貴女|女?神(様|さま|さん|ちゃん|ちゃま)?|君|貴様|you)$
+wish.fbs.goddess.get=あらあら、私は非売品よ？
+wish.fbs.achievement.regex=^実績$
+wish.fbs.achievement.get=何でも私を頼ってはだめよ～
+wish.fbs.insanity.regex=^(insanity((:|\s)(assorted\smagics|forbidden\sbooks\sof\ssorcery|ceramics\stime|secret\sart\sof\alchemy\|contract\swith\sspirit)))$
+wish.fbs.insanity.get=あらあら、あなた今それで遊んでるじゃない
+
+wish.fbs.death.regex=^(死|death)$
+wish.fbs.death.get=お望みどおり死をくれてやろうじゃない！
+wish.fbs.money.regex=^(現金|金貨|金|富|財産|money|MP|minecraft\spoint|wealth|fortune)$
+wish.fbs.money.get=ほんと、浅はかな人ね
+wish.fbs.sanity.regex=^(正気|正気度|san|sanity\spoint|sanity)$
+wish.fbs.sanity.get=ほれほれーこの私でいやされるがいいー
+wish.fbs.exp.regex=^(経験値|exp|experience|lv)$
+wish.fbs.exp.get=この経験はトクベツよ？
+wish.fbs.health.regex=^(健康|体力|体力回復|health|heal)$
+wish.fbs.health.get=肉体にそこまで執着するものかしら？
+
+############################################################
+#
+# achievement
+#
+############################################################
+achievement.fbs.san=Hideous Something
+achievement.fbs.san.desc=Lose SAN
+achievement.fbs.madness=Temporary Insanity
+achievement.fbs.madness.desc=Get madness
+achievement.fbs.death=Insanity
+achievement.fbs.death.desc=Die by insanity
+
+achievement.fbs.lucky=Lucky
+achievement.fbs.lucky.desc=Get huge lucky finish
+achievement.fbs.ga=I'm fine
+achievement.fbs.ga.desc=Craft school table
+
+achievement.fbs.bonfire=Campfire
+achievement.fbs.bonfire.desc=Ignite bonfire
+achievement.fbs.extract=Enchantment Extractor
+achievement.fbs.extract.desc=Extract enchant scroll by bonfire
+achievement.fbs.enchant=Enchanter
+achievement.fbs.enchant.desc=Succeed enchantment which using enchant scroll
+
+achievement.fbs.monocle=First step to magic
+achievement.fbs.monocle.desc=Wear monocle
+achievement.fbs.book=Forbidden book
+achievement.fbs.book.desc=Get book from bookshelf
+achievement.fbs.workbench=Fledgling Magician
+achievement.fbs.workbench.desc=Craft magician's workbench
+achievement.fbs.circle=The magic circle
+achievement.fbs.circle.desc=Make magic circle
+achievement.fbs.witch=Witch's friend
+achievement.fbs.witch.desc=Craft membership
+achievement.fbs.resonance=Resonance!
+achievement.fbs.resonance.desc=Succeed resonance of two or more books
+achievement.fbs.harvest=Magician's Harvest
+achievement.fbs.harvest.desc=Use Magician's Harvest
+
+achievement.fbs.autumn=Kureha
+achievement.fbs.autumn.desc=Visit magical autumn
+achievement.fbs.butterfly=Butterfly effect
+achievement.fbs.butterfly.desc=Get butterfly
+achievement.fbs.sublimation=Sublimation
+achievement.fbs.sublimation.desc=Become butterfly
+achievement.fbs.eternalAutumn=Fall,Fall,Fall
+achievement.fbs.eternalAutumn.desc=Visit Eternal Autumn
+
+achievement.fbs.warp=Voyager
+achievement.fbs.warp.desc=Use Voyage of Spatiotemporal
+achievement.fbs.crack=Dimension Crack
+achievement.fbs.crack.desc=Visit Dimension Crack
+achievement.fbs.contract=Spirit Listener
+achievement.fbs.contract.desc=Contract with spirit
+achievement.fbs.tear=The color of tear
+achievement.fbs.tear.desc=Get spirit tear
+achievement.fbs.evil=Wretch!
+achievement.fbs.evil.desc=Use spirit tool until it be broken
+achievement.fbs.best=The Best Partner
+achievement.fbs.best.desc=Become intimate with spirit
+achievement.fbs.infinity=Infinity!
+achievement.fbs.infinity.desc=Collect infinity armors
+
+achievement.fbs.beginner=Fledgling Alchemist
+achievement.fbs.beginner.desc=Craft alchemy table
+achievement.fbs.appraisal=Appraisal Person
+achievement.fbs.appraisal.desc=Appraise a item
+achievement.fbs.atelier=Atelier
+achievement.fbs.atelier.desc=Craft Alchemy Cauldron
+achievement.fbs.alchemy=The First Compounding
+achievement.fbs.alchemy.desc=Succeed Compounding
+achievement.fbs.herbGold=Legend Herb
+achievement.fbs.herbGold.desc=Get gold herb
+
+achievement.fbs.potter=Ceramics Time
+achievement.fbs.potter.desc=Make Potter's wheel
+achievement.fbs.grade=Is the grade ... ?
+achievement.fbs.grade.desc=Make pottery
+achievement.fbs.soulful=Soulful work
+achievement.fbs.soulful.desc=Make soulful pottery
+
+achievement.fbs.sealBreaker=Seal Breaker
+achievement.fbs.sealBreaker.desc=Open the GATE
+achievement.fbs.monster=Interact with
+achievement.fbs.monster.desc=...
+achievement.fbs.everydayLife=Everyday Life with
+achievement.fbs.everydayLife.desc=yeah!
+
+############################################################
+#
+# spirit
+#
+############################################################
+
+spirit.gui.fbs.name=Name
+spirit.gui.fbs.owner=Owner
+spirit.gui.fbs.lv=Level
+spirit.gui.fbs.next=To Next
+spirit.gui.fbs.str=Power
+spirit.gui.fbs.tou=Toughness
+spirit.gui.fbs.dur=Durability
+spirit.gui.fbs.need=Premise
+spirit.gui.fbs.food.state=State
+spirit.gui.fbs.food.max=Satiety
+spirit.gui.fbs.food.eight=Belly eight minutes
+spirit.gui.fbs.food.half=Hunger
+spirit.gui.fbs.food.zero=Very Hunger
+spirit.gui.fbs.sp=Skill Point
+
+spirit.gui.fbs.button.skill=Skill
+spirit.gui.fbs.button.learn=Learn
+spirit.gui.fbs.button.repair=Repair
+spirit.gui.fbs.button.bless=Bless
+spirit.gui.fbs.button.summon=Summon
+spirit.gui.fbs.button.config=Config
+spirit.gui.fbs.button.feed=Feed
+spirit.gui.fbs.button.ok=OK
+spirit.gui.fbs.button.cancel=Cancel
+spirit.gui.fbs.button.learn2=Learn
+
+spirit.config.fbs.enableMessage=Enable All Message
+spirit.config.fbs.enableTimeSignalMessage=Enable Time Signal Message
+
+spirit.bless.fbs.health=Your wounds all healed
+spirit.bless.fbs.food=Your hunger has been satisfied
+spirit.bless.fbs.stamina=Your fatigue has been removed
+spirit.bless.fbs.moisture=Your throat is moistened
+
+spirit.demerit.fbs.blood=State of the spirit is strange ...
+
+# congenital
+spirit.skill.fbs.precocious=Precocious
+spirit.skill.fbs.lateBloomer=Late Bloomer
+spirit.skill.fbs.patient=Patient
+spirit.skill.fbs.skillful=Skillful
+spirit.skill.fbs.sentimental=Sentimental
+
+# demerit
+spirit.skill.fbs.blood=Sucking Blood
+spirit.skill.fbs.end=The End
+spirit.skill.fbs.insanity=Indefinite of madness
+
+# passive
+spirit.skill.fbs.soulBind=Soul Bind
+spirit.skill.fbs.contract=Contract
+spirit.skill.fbs.knowledge=Knowledge
+
+# battle
+spirit.skill.fbs.fire=Fire Blade
+spirit.skill.fbs.poison=Poisonous Blade
+spirit.skill.fbs.vampire=Vampire Blade
+spirit.skill.fbs.sonic=Sonic Blade
+spirit.skill.fbs.knockback=Knockback
+spirit.skill.fbs.infinity=Infinity
+spirit.skill.fbs.critical=Critical
+spirit.skill.fbs.hero=Hero Desire
+spirit.skill.fbs.lucky=Lucky Finish
+spirit.skill.fbs.smite=Smite
+spirit.skill.fbs.arthropods=Arthropods
+spirit.skill.fbs.headhunt=Headhunt
+
+# harvest
+spirit.skill.fbs.bulk=Bulk
+spirit.skill.fbs.future=Future
+spirit.skill.fbs.silk=Silk Touch
+spirit.skill.fbs.smelt=Instant Smelting
+spirit.skill.fbs.aqua=Aqua Mining
+
+
+spirit.character.fbs.alice=美作アリス
+spirit.talk.fbs.alice.first.0=はじめまして、だな。私は%spirit%だ
+spirit.talk.fbs.alice.first.1=これからよろしくな
+spirit.talk.fbs.alice.morning.0=朝日は心地いいな。今日も一日がんばっていこうな
+spirit.talk.fbs.alice.noon.0=お昼になったな。昼食は何にする？
+spirit.talk.fbs.alice.night.0=夜は私の時間だな。狩りにでも行こうか？
+spirit.talk.fbs.alice.sleep.0=君はゆっくり休んでいてくれ。私が傍で見守ってやるから、な
+spirit.talk.fbs.alice.lvup.0=私はもっと強くなる。
+spirit.talk.fbs.alice.lvup.1=これまでよりもずっと、な
+spirit.talk.fbs.alice.bless.0=うんうん、頼られるのは嫌いじゃないぞ
+spirit.talk.fbs.alice.fullmoon.0=今夜は満月だな！さあ！狩りだ！狩りに行くぞ！
+spirit.talk.fbs.alice.newmoon.0=今夜は新月か・・・そうだ、昔話でもしよう
+spirit.talk.fbs.alice.newmoon.1=家族を失った1匹の狼の話なんてどうだ？
+spirit.talk.fbs.alice.summon.0=よし、私の出番だな！任せてくれ！
+spirit.gui.button.skill.fbs.alice.0=私が今持っているスキルを確認できるぞ
+spirit.gui.button.learn.fbs.alice.0=私に新しいスキルを覚えさせられるぞ
+spirit.gui.button.repair.fbs.alice.0=戦いで傷ついた私の体を癒せるぞ
+spirit.gui.button.repair.fbs.alice.1=ただし、精霊の修復薬が必要だから注意だ
+spirit.gui.button.bless.fbs.alice.0=1日に1度、私の祝福を受けられるぞ
+spirit.gui.button.summon.fbs.alice.0=私が実体化して君と共に戦うぞ
+spirit.gui.button.config.fbs.alice.0=君と私との間でのルールを決められるぞ
+spirit.gui.button.feed.fbs.alice.0=私にご飯を渡せるぞ
+spirit.gui.button.feed.fbs.alice.1=できれば1日3食しっかりと食べたいものだな
+
+spirit.character.fbs.hiyo=与神ひよ
+spirit.talk.fbs.hiyo.first.0=初めまして、だんなさま。わたくしは%spirit%と申します
+spirit.talk.fbs.hiyo.first.1=これからのだんなさまの生活をサポートさせて
+spirit.talk.fbs.hiyo.first.2=いただきますね
+spirit.talk.fbs.hiyo.morning.0=おはようございます、だんなさま。朝食は何になさいますか？
+spirit.talk.fbs.hiyo.noon.0=わたくし、%spirit%が正午をお知らせいたしますわ、だんなさま
+spirit.talk.fbs.hiyo.night.0=夜になりましたね。今夜は狩りに行かれるのですか？
+spirit.talk.fbs.hiyo.sleep.0=本日も一日お疲れ様でした
+spirit.talk.fbs.hiyo.sleep.1=わたくしのことはお気になさらず、ゆっくりとお休みください
+spirit.talk.fbs.hiyo.lvup.0=だんなさまのおかげで、少し強くなれたみたいです
+spirit.talk.fbs.hiyo.lvup.1=ありがとうございます。だんなさま
+spirit.talk.fbs.hiyo.bless.0=わたくしに出来る事は少ないですが、
+spirit.talk.fbs.hiyo.bless.1=それでもだんなさまのお力になれれば、と
+spirit.talk.fbs.hiyo.newmoon.0=わたくしは、だんなさまと出会えたことに感謝しております
+spirit.talk.fbs.hiyo.newmoon.1=だんなさまからいただいたこの名前にも、だんなさまと共に過ごすこの日々にも・・・
+spirit.talk.fbs.hiyo.newmoon.2=あ！いえいえ、これは別にお別れの言葉だとかそういうものではなくってですね
+spirit.talk.fbs.hiyo.newmoon.3=ただわたくしの心中を勝手ながら申しあげただけでございます
+spirit.talk.fbs.hiyo.newmoon.4=これからもよろしくおねがいいたしますね
+spirit.talk.fbs.hiyo.autumn.0=紅葉が綺麗でございますね、だんなさま
+spirit.gui.button.skill.fbs.hiyo.0=わたくしのスキルが確認できます
+spirit.gui.button.learn.fbs.hiyo.0=わたくしに新しいスキルを
+spirit.gui.button.learn.fbs.hiyo.1=覚えさせることができます
+spirit.gui.button.repair.fbs.hiyo.0=精霊の修復薬というアイテムを用いる事で
+spirit.gui.button.repair.fbs.hiyo.1=わたくしの身体を修復することができます
+spirit.gui.button.bless.fbs.hiyo.0=1日に1度限りですが、
+spirit.gui.button.bless.fbs.hiyo.1=だんなさまを祝福いたします
+spirit.gui.button.summon.fbs.hiyo.0=わたくしを現実世界に召喚できます
+spirit.gui.button.config.fbs.hiyo.0=わたくしが守るルールを決められます
+spirit.gui.button.feed.fbs.hiyo.0=供物という形で、わたくしにごは・・・
+spirit.gui.button.feed.fbs.hiyo.1=アイテムを渡す事ができます
+
+spirit.character.fbs.tama=タマ
+spirit.talk.fbs.tama.first.0=はじめまして！%owner%にあえて%spirit%とってもうれしー！
+spirit.talk.fbs.tama.morning.0=あさ！あさだよ！おきてーーー！！！
+spirit.talk.fbs.tama.noon.0=おひるー！%spirit%おなかすいたー！ごはんー！
+spirit.talk.fbs.tama.night.0=よる！かりのじかん！そとにいこう！
+spirit.talk.fbs.tama.sleep.0=ねちゃうの？%spirit%さみしい・・・
+spirit.talk.fbs.tama.lvup.0=%spirit%、グロウ！え？ちがうの？
+spirit.talk.fbs.tama.bless.0=よしよしいいこだねー
+spirit.talk.fbs.tama.battle.0=にゃあ！
+spirit.talk.fbs.tama.win.0=%spirit%まだまだたたかう！
+spirit.talk.fbs.tama.summon.0=そーれっ！ ふぅーっ！
+spirit.gui.button.skill.fbs.tama.0=%spirit%のスキルだよ！
+spirit.gui.button.learn.fbs.tama.0=%spirit%をもっとつよくできるよ！
+spirit.gui.button.repair.fbs.tama.0=%spirit%のキズがなおせるんだって！
+spirit.gui.button.bless.fbs.tama.0=なでなでしてあげる！
+spirit.gui.button.summon.fbs.tama.0=%spirit%がちょくせつたたかう！
+spirit.gui.button.config.fbs.tama.0=よくわかんない！
+spirit.gui.button.feed.fbs.tama.0=ごはんくれるの？
+
+spirit.character.fbs.kako=加古
+spirit.talk.fbs.kako.first.0=んあ？起こしたの君？・・・もう一度寝ていい？
+spirit.talk.fbs.kako.morning.0=もう朝かあ・・・ねぇ、二度寝していい？
+spirit.talk.fbs.kako.noon.0=お昼かあ・・・昼寝には丁度いいかな
+spirit.talk.fbs.kako.night.0=今日も1日疲れたね。さあ、寝よう！
+spirit.talk.fbs.kako.sleep.0=ＺＺＺ・・・・・・
+spirit.talk.fbs.kako.lvup.0=なんだかカッコよくなれた気がするぞ・・・？
+spirit.talk.fbs.kako.bless.0=んじゃ、やることやったし寝るわ
+spirit.talk.fbs.kako.bless.1=おっやすみー！
+spirit.talk.fbs.kako.win.0=そりゃあたしだって一日中寝てるわけじゃないっての！
+spirit.talk.fbs.kako.summon.0=よっしゃあ！あたしの出番だね！
+spirit.gui.button.skill.fbs.kako.0=あたしの今持ってるスキルだってさ
+spirit.gui.button.learn.fbs.kako.0=あたしに新しいスキルを覚えさせることができるよ
+spirit.gui.button.repair.fbs.kako.0=精霊の修復薬ってのがあれば
+spirit.gui.button.repair.fbs.kako.1=あたしの傷を治せるよ
+spirit.gui.button.bless.fbs.kako.0=日に1度限りの祝福を、なーんてね
+spirit.gui.button.summon.fbs.kako.0=あたしのスペシャルを見せてやるよ
+spirit.gui.button.config.fbs.kako.0=なにかあればいってくれよー
+spirit.gui.button.feed.fbs.kako.0=補給はありがたいな～
+
+spirit.character.fbs.d=ディン
+spirit.talk.fbs.d.first.0=俺は%spirit%だ。これからよろしくな
+spirit.talk.fbs.d.morning.0=日が昇ったな。今日は何をするんだ？
+spirit.talk.fbs.d.noon.0=昼になったな。紅茶を淹れてくれないか
+spirit.talk.fbs.d.night.0=働きすぎは良くないぞ。そろそろ休んだらどうだ？
+spirit.talk.fbs.d.sleep.0=休めるときに休むべきだ
+spirit.talk.fbs.d.lvup.0=精霊としての更なる力を得る事ができたようだ
+spirit.talk.fbs.d.lvup.1=・・・感謝する
+spirit.talk.fbs.d.bless.0=あまり頼られても困るが、今回は特別だ
+spirit.talk.fbs.d.battle.0=いいだろう。俺の力を見せてやる！
+spirit.talk.fbs.d.win.0=ふん、%target% などに遅れをとる俺ではない
+spirit.talk.fbs.d.nether.0=ネザーか。マグマに気をつけろよ
+spirit.talk.fbs.d.nether.1=おっと、流石の俺でも要塞の位置は分からないからな？
+spirit.talk.fbs.d.end.0=ここが全ての終点。この世の果てだ
+spirit.talk.fbs.d.library.0=ここは……できれば長居はしたくないものだな
+spirit.gui.button.skill.fbs.d.0=俺の今覚えているスキルだ
+spirit.gui.button.learn.fbs.d.0=俺に新しいスキルを覚えさせられるぞ
+spirit.gui.button.repair.fbs.d.0=錬金術で作れる精霊の修復薬があれば
+spirit.gui.button.repair.fbs.d.1=俺の身体を修復することができる
+spirit.gui.button.bless.fbs.d.0=俺の特別な力をあんたにも貸してやる
+spirit.gui.button.bless.fbs.d.1=ただし、1日1度限りだがな
+spirit.gui.button.summon.fbs.d.0=必要あれば俺を呼べ
+spirit.gui.button.summon.fbs.d.1=力になってやろう
+spirit.gui.button.config.fbs.d.0=何かあればいってくれ
+spirit.gui.button.feed.fbs.d.0=供物を渡せば俺はもっと強くなれる
+
+spirit.character.fbs.kouta=藤木コウタ
+spirit.talk.fbs.kouta.first.0=よっす！%spirit%ってんだ！よろしくな！
+spirit.talk.fbs.kouta.morning.0=もう朝か・・・今日も一日頑張っていこうぜ！
+spirit.talk.fbs.kouta.noon.0=な、なあ。お腹、空かないか？
+spirit.talk.fbs.kouta.noon.1=よかったらそろそろお昼に・・・
+spirit.talk.fbs.kouta.night.0=そろそろ寝ようぜー夜は危険だしさー
+spirit.talk.fbs.kouta.sleep.0=あ、俺はまだ起きてるから先に休んでていいぜ
+spirit.talk.fbs.kouta.lvup.0=へっへーん、レベルアップしたぜ！
+spirit.talk.fbs.kouta.bless.0=どうだ！？ちょっとは効果ありそうか！？
+spirit.gui.button.skill.fbs.d.0=俺の持ってるスキルの一覧だぜ
+spirit.gui.button.learn.fbs.d.0=俺に新しいスキルを教えてくれんのか！？
+spirit.gui.button.repair.fbs.d.0=精霊の修復薬ってアイテムがあれば
+spirit.gui.button.repair.fbs.d.1=俺の身体を治せるんだ
+spirit.gui.button.bless.fbs.d.0=この%spirit%様が祝福してやるよー！
+spirit.gui.button.summon.fbs.d.0=ピンチのときはこの%spirit%様に任せとけって！
+spirit.gui.button.config.fbs.d.0=ああ、なにかあれば言ってくれ
+spirit.gui.button.config.fbs.d.0=その通りにするからさ
+spirit.gui.button.feed.fbs.d.0=アイテムを渡してくれると嬉しいかなーって、へへ
+
+############################################################
+#
+# command
+#
+############################################################
+commands.fbs.sanity.usage=/sanity <add|lose> <player> <trial> <max>
+commands.fbs.mlevel.usage=/mlevel <add|set> <player> <lv>
+commands.fbs.mexp.usage=/mexp <player> <exp>
+commands.fbs.getbook.usage=/givebook <player> <title>
+commands.fbs.getbook.notFound=That book cannot be found
+commands.fbs.getspirit.usage=/givespirit <player> <item name> <spirit name> (male|female)
+commands.fbs.getspirit.notFound=There is no such item
+commands.fbs.getspirit.notFound2=There is no such spirit tool

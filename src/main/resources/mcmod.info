@@ -1,0 +1,16 @@
+[
+{
+  "modid": "jp-plusplus-fbs",
+  "name": "Insanity",
+  "description": "This is an assortment about magic-base mods.",
+  "version": "open-beta",
+  "mcversion": "${mcversion}",
+  "url": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=25044",
+  "updateUrl": "http://forum.minecraftuser.jp/viewtopic.php?f=13&t=25044",
+  "authorList": ["F(Twitter:@plusplus_san)"],
+  "credits": "",
+  "logoFile": "logo-Insanity.png",
+  "screenshots": [],
+  "dependencies": []
+}
+]
