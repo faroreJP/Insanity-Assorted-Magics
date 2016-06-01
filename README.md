@@ -1,1 +1,2 @@
 # Insanity:Assorted Magics
+PRはdevelopブランチへ
